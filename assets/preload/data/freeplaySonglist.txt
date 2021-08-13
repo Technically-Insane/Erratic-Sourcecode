@@ -1,0 +1,5 @@
+Tutorial:gf:1
+Encounter:erratic:1
+Kermis:erratic:1
+Ringmaster:erratic:1
+Vencit:erraticpissed:1
