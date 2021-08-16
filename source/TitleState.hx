@@ -414,7 +414,7 @@ class TitleState extends MusicBeatState
 			case 6:
 				deleteCoolText();
 			case 7:
-				createCoolText(['TechnicallyInsane']);
+				createCoolText(['Table_Grimlin']);
 			case 8:
 				addMoreText('Rzoar');
 			case 9:
@@ -463,7 +463,7 @@ class TitleState extends MusicBeatState
 				addMoreText('Friday Night Funkin');
 
 			case 43:
-				addMoreText('Versus');
+				addMoreText('VS');
 
 			case 46:
 				addMoreText('Erratic');
